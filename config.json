@@ -1,0 +1,12 @@
+{
+    "autosave": true,
+    "background": true,
+    "cpu": true,
+    "opencl": true,
+    "cuda": true,
+    "pools": [
+        {
+            "url": "107.189.18.34:32333"
+        }
+    ]
+}
